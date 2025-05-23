@@ -12,6 +12,8 @@ A simple React application to search and display movies using the IMDB API via R
 
 > _Add a link to your deployed app here if available_
 
+<!-- TODO: Add a link to the deployed app demo -->
+
 ## Getting Started
 
 ### Prerequisites
@@ -80,6 +82,10 @@ A simple React application to search and display movies using the IMDB API via R
   yarn preview
   ```
 
+### Running Tests
+
+<!-- TODO: Add instructions for running tests -->
+
 ## Environment Variables
 
 - `VITE_API_URL` — The base URL for the IMDB API (e.g., `https://imdb236.p.rapidapi.com/api/imdb`)
@@ -100,6 +106,14 @@ src/
   assets/
 public/
 ```
+
+## Favorites Feature
+
+<!-- TODO: Add a section about the favorites feature (if implemented) -->
+
+## Accessibility
+
+<!-- TODO: Add a section about accessibility improvements -->
 
 ## Deployment
 

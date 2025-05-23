@@ -1,3 +1,10 @@
+// TODO: Add error handling and display error messages for failed API calls
+// TODO: Implement a loading state to show a spinner during API requests
+// TODO: Implement pagination or infinite scroll for movie results
+// TODO: Add a favorites feature with local storage
+// TODO: Improve accessibility (ARIA labels, keyboard navigation, color contrast)
+// TODO: Add unit and integration tests for this component
+
 import { useState, useEffect } from 'react'
 import "./App.css"
 import searchIcon from "./search.svg"

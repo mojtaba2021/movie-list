@@ -1,3 +1,8 @@
+// TODO: Show additional movie information (rating, genre, plot, actors, etc.)
+// TODO: Add a favorites button/feature
+// TODO: Improve accessibility (alt text, ARIA labels, keyboard navigation)
+// TODO: Add unit tests for this component
+
 import React from 'react';
 
 const MovieCard = ({ movie: { id, startYear, primaryImage, primaryTitle } }) => {
